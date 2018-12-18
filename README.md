@@ -20,8 +20,8 @@ We then highlight one of the biggest challenges that you often face as a data sc
 
 ### Principal Component Analysis (PCA)
 
-We then spend the rest of the section learning about PCA - one of the most common techniques for combining dimensions in a way that minimizes the information lost by the reduction in dimentionality.
+We then spend the rest of the section learning about PCA - one of the most common techniques for combining dimensions in a way that minimizes the information lost by the reduction in dimensionality.
 
 ## Summary
 
-
+The curse of dimensionality is going to be an issue you're dealing with on a regular basis and dimensionality reduction techniques like PCA are going to be a common tool for making your data set more tractible while losing as little information as possible.
